@@ -65,3 +65,4 @@ cv.imshow('interpolation_normal',normal_interpolation)
 cv.imshow('interpolation_bilinear',bilinear_interpolation)
 cv.waitKey(0)
 cv.destoryAllWindows()
+#공부공부공부
