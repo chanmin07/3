@@ -28,3 +28,8 @@ cv.imshow('origin',roi)
 cv.imshow('result-Burt83a',output)
 cv.waitKey(0)
 cv.destroyAllWindows()
+#qqqqqqqqqqq
+#WWWWWWWWWWWWW
+#eeeeeeeeeeeeeee
+#rrrrrrrrrrrrr
+#TTTTTTTTTTTT
