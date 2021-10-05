@@ -27,9 +27,8 @@ for j in range(output.shape[0]):
 cv.imshow('origin',roi)
 cv.imshow('result-Burt83a',output)
 cv.waitKey(0)
+#qqqqqqqqqqqqqqqqqqqqq
 cv.destroyAllWindows()
 #qqqqqqqqqqq
 #WWWWWWWWWWWWW
-#eeeeeeeeeeeeeee
-#rrrrrrrrrrrrr
-#TTTTTTTTTTTT
+
