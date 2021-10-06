@@ -25,10 +25,11 @@ for j in range(output.shape[0]):
                         sum += Burt83a_mask.item(r+2,c+2) * roi.item(y,x,k)
             output.itemset(j,i,k,int(sum))
 cv.imshow('origin',roi)
+#QQQQQQQQQQQQQQ
+#qqqqqqqqqqqqqqqqqq
 cv.imshow('result-Burt83a',output)
 cv.waitKey(0)
 #qqqqqqqqqqqqqqqqqqqqq
 cv.destroyAllWindows()
-#qqqqqqqqqqq
-#WWWWWWWWWWWWW
+
 
