@@ -31,5 +31,10 @@ cv.imshow('result-Burt83a',output)
 cv.waitKey(0)
 #qqqqqqqqqqqqqqqqqqqqq
 cv.destroyAllWindows()
-
-
+#qqqqqqqqqqqqqqqqqqqqq
+#qqqqqqqqqqqqqqqqqqqqq
+#qqqqqqqqqqqqqqqqqqqqq
+#qqqqqqqqqqqqqqqqqqqqq
+#qqqqqqqqqqqqqqqqqqqqq
+#qqqqqqqqqqqqqqqqqqqqq
+#qqqqqqqqqqqqqqqqqqqqq
